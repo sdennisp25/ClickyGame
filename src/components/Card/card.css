@@ -1,0 +1,14 @@
+.card {
+	background-color: yellow;
+	height: 200px;
+	width: 200px;
+}
+
+.card-image {
+	padding: 5px;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
