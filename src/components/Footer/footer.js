@@ -2,7 +2,7 @@ import React from "react";
 import "./footer.css";
 
 const Footer = () => (
-  <footer class="page-footer">
+  <footer className="page-footer">
     © 2014 Copyright Text
   </footer>
 );

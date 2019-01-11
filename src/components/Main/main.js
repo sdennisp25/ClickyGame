@@ -1,8 +1,8 @@
 import React from "react";
+import "./main.css";
 
 const Main = () => (
-  <div class="progress">
-    <div class="indeterminate" />
+  <div className="container">
   </div>
 );
 
