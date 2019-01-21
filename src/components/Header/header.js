@@ -8,8 +8,7 @@ const Header = props => (
         <ul id="nav-mobile" class="brand-logo center">
           <li>Clicky Game</li>
           <li className={(props.message !== -1, props.message !== -1)} />
-          &nbsp;| Top Score:
-          <span style={{ color: "yellow" }}>{props.topScore}</span>
+          &nbsp;| Top Score: {props.topScore}
         </ul>
       </div>
     </nav>
@@ -17,9 +16,7 @@ const Header = props => (
     <nav class="nav-wrapper">
       <ul id="nav-mobile" class="brand-logo center">
         <li>
-          Score:
-          <span style={{ color: "yellow" }}>{props.currentScore}</span> |{" "}
-          {props.message}
+          Score: {props.currentScore} | {props.message}
         </li>
       </ul>
     </nav>
