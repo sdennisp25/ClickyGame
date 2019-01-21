@@ -13,5 +13,4 @@
 
 
 # Images of the Clicky-Game application
-![Alt text](/images/)
-![Alt text](/images/)
+![Alt text](/public/images/ClickyGame.png)
