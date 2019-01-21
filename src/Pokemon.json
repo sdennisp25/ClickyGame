@@ -1,0 +1,50 @@
+[
+  {
+    "pokemon": "charmander",
+    "image": "https://img.pokemondb.net/artwork/charmander.jpg"
+  },
+  {
+    "pokemon": "squirtle",
+    "image": "https://img.pokemondb.net/artwork/squirtle.jpg"
+  },
+  {
+    "pokemon": "bulbasaur",
+    "image": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+  },
+  {
+    "pokemon": "pikachu",
+    "image": "https://img.pokemondb.net/artwork/pikachu.jpg"
+  },
+  {
+    "pokemon": "meowth",
+    "image": "https://img.pokemondb.net/artwork/meowth.jpg"
+  },
+  {
+    "pokemon": "abra",
+    "image": "https://img.pokemondb.net/artwork/abra.jpg"
+  },
+  {
+    "pokemon": "koffing",
+    "image": "https://img.pokemondb.net/artwork/koffing.jpg"
+  },
+  {
+    "pokemon": "staryu",
+    "image": "https://img.pokemondb.net/artwork/staryu.jpg"
+  },
+  {
+    "pokemon": "eevee",
+    "image": "https://img.pokemondb.net/artwork/eevee.jpg"
+  },
+  {
+    "pokemon": "jigglypuff",
+    "image": "https://img.pokemondb.net/artwork/jigglypuff.jpg"
+  },
+  {
+    "pokemon": "pidgey",
+    "image": "https://img.pokemondb.net/artwork/pidgey.jpg"
+  },
+  {
+    "pokemon": "caterpie",
+    "image": "https://img.pokemondb.net/artwork/caterpie.jpg"
+  }
+]

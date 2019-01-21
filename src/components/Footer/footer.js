@@ -3,7 +3,7 @@ import "./footer.css";
 
 const Footer = () => (
   <footer className="page-footer">
-    © 2014 Copyright Text
+    © 2018 Clicky Game
   </footer>
 );
 
