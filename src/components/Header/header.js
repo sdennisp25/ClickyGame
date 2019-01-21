@@ -4,17 +4,17 @@ import "./Header.css";
 const Header = props => (
   <div>
     <nav>
-      <div class="nav-wrapper">
-        <ul id="nav-mobile" class="brand-logo center">
+      <div className="nav-wrapper">
+        <ul className="brand-logo center">
           <li>Clicky Game</li>
-          <li className={(props.message !== -1, props.message !== -1)} />
+          <li className={(props.message)} />
           &nbsp;| Top Score: {props.topScore}
         </ul>
       </div>
     </nav>
 
-    <nav class="nav-wrapper">
-      <ul id="nav-mobile" class="brand-logo center">
+    <nav className="nav-wrapper">
+      <ul className="brand-logo center">
         <li>
           Score: {props.currentScore} | {props.message}
         </li>

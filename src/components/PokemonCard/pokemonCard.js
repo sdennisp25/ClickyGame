@@ -6,11 +6,7 @@ const PokemonCard = props => (
     <div className="img-container">
       <a
         onClick={() => props.choosePokemon(props.pokemon)}
-        className={
-          props.currentScore === 0
-            ? "cardImage"
-            : "cardImage"
-        }
+        className={props.currentScore === 0 ? "cardImage" : "cardImage"}
       >
         <img alt={props.pokemon} src={props.image} />
       </a>
