@@ -7,8 +7,7 @@ const Header = props => (
       <div className="nav-wrapper">
         <ul className="brand-logo center">
           <li>Clicky Game</li>
-          <li className={(props.message)} />
-          &nbsp;| Top Score: {props.topScore}
+          <li className={props.message}>&nbsp;| Top Score: {props.topScore}</li>
         </ul>
       </div>
     </nav>
