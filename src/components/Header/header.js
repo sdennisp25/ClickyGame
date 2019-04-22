@@ -5,19 +5,14 @@ const Header = props => (
   <div>
     <nav>
       <div className="nav-wrapper">
-        <ul className="brand-logo center">
+        <ul className="brand-logo right">
+					<li>
+						Score: {props.currentScore} | {props.message}
+					</li>
           <li>Clicky Game</li>
           <li className={props.message}>&nbsp;| Top Score: {props.topScore}</li>
         </ul>
       </div>
-    </nav>
-
-    <nav className="nav-wrapper">
-      <ul className="brand-logo center">
-        <li>
-          Score: {props.currentScore} | {props.message}
-        </li>
-      </ul>
     </nav>
   </div>
 );

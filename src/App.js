@@ -60,6 +60,8 @@ class App extends Component {
     return (
       <React.Fragment>
         <Header
+							style={
+								{ backgroundImage: "url('https://assetstorev1-prd-cdn.unity3d.com/package-screenshot/d7d97bc4-13a2-4a57-9895-8fdb9edd13a9_scaled.jpg')" }}
           message={this.state.message} 
           currentScore={this.state.currentScore}
           topScore={this.state.topScore}
